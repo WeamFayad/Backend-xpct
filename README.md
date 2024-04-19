@@ -27,7 +27,7 @@ You can test the CRUD APIs using tools like Postman or curl.
 Request:
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
-  "age": 20
+  "name": "weam fayad",
+  "email": "weamfayad@outlook.com",
+  "age": 24
 }
